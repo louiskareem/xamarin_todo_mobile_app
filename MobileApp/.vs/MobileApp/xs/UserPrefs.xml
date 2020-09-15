@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8DB42963-F796-4366-8C30-0DE4905699D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.MobileTodoApp.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileApp/MobileApp/TodoListView.xaml">
+    <Files>
+      <File FileName="MobileApp/MobileApp/TodoListViewModel.cs" Line="51" Column="22" />
+      <File FileName="MobileApp/MobileApp/TodoItem.cs" Line="10" Column="35" />
+      <File FileName="MobileApp/MobileApp/Persistence/TodoRepository.cs" Line="17" Column="73" />
+      <File FileName="MobileApp/MobileApp.iOS/Main.cs" Line="8" Column="20" />
+      <File FileName="MobileApp/MobileApp/TodoListView.xaml" Line="19" Column="39" />
+      <File FileName="MobileApp/MobileApp/ChangeCompleteActionTextConverter.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobileApp" expanded="True">
+            <Node name="MobileTodoApp" expanded="True">
+              <Node name="Persistence" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="TodoListView.xaml" selected="True" />
+            </Node>
+            <Node name="MobileTodoApp.Android" expanded="True" />
+            <Node name="MobileTodoApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.MobileTodoApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.79262F8B-2490-4AE8-AD8B-4EA66EEE3FD1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

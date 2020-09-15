@@ -8029,39 +8029,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gebruiker\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/kareem/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\MobileApp\\MobileApp\\MobileApp.iOS\\MobileTodoApp.iOS.csproj",
-      "projectName": "MobileTodoApp.iOS",
-      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\MobileApp\\MobileApp\\MobileApp.iOS\\MobileTodoApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\MobileApp\\MobileApp\\MobileApp.iOS\\obj\\",
+      "projectUniqueName": "/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/MobileTodoApp.iOS.csproj",
+      "projectName": "MobileApp.iOS",
+      "projectPath": "/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/MobileTodoApp.iOS.csproj",
+      "packagesPath": "/Users/kareem/.nuget/packages/",
+      "outputPath": "/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/kareem/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Gebruiker\\source\\repos\\MobileApp\\MobileApp\\MobileApp\\MobileTodoApp.csproj": {
-              "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\MobileApp\\MobileApp\\MobileApp\\MobileTodoApp.csproj"
+            "/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp/MobileTodoApp.csproj": {
+              "projectPath": "/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp/MobileTodoApp.csproj"
             }
           }
         }

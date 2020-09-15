@@ -15,9 +15,8 @@
                 <DataTemplate>
                     <TextCell Text="{Binding Title}">
                         <TextCell.ContextActions>
-                            //test
-                            <MenuItem Command="{Binding Source={x:Reference TodoDisplayList}, Path=BindingContext.ChangeIsCompleted }" 
-                                      CommandParameter="{Binding .}" Text="{Binding IsCompleted, Converter={StaticResource ChangeCompletedActionTextConveter}}" />
+                            <MenuItem Command="{Binding Source={x:Reference TodoDisplayList}, Path=BindingContext.ChangeIsCompleted }"
+                                      CommandParameter="{Binding .}" Text="{Binding IsCompleted, Converter={StaticResource ChangeCompletedActionTextConverter}}" />
                             <MenuItem Command="{Binding Source={x:Reference TodoDisplayList}, Path=BindingContext.Delete }"
                                       CommandParameter="{Binding .}" Text="Delete" IsDestructive="True" />
                         </TextCell.ContextActions>
