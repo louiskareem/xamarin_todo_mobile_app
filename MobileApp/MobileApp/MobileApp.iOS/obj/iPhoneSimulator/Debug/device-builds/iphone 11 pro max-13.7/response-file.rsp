@@ -4,7 +4,7 @@
 --http-message-handler=NSUrlSessionHandler
 "--cache=/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/mtouch-cache"
 --root-assembly=/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/bin/iPhoneSimulator/Debug/MobileApp.iOS.exe
---sdkroot=/Applications/Xcode.app/Contents/Developer
+--sdkroot=/Volumes/MerelDrive/Xcode.app/Contents/Developer
 "--sim=/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/MobileApp.iOS.app"
 --executable=MobileApp.iOS
 --nolink

@@ -162,14 +162,14 @@ C:/Users/Gebruiker/source/repos/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimu
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/bin/iPhoneSimulator/Debug/MobileTodoApp.pdb
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/ibtool/_BundleResourceWithLogicalName.items
-/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/actool/_PartialAppManifest.items
-/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/actool/_BundleResourceWithLogicalName.items
-/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/coremlc/_PartialAppManifest.items
-/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/coremlc/_BundleResourceWithLogicalName.items
-/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.7/optimized/
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/MobileTodoApp.iOS.csprojAssemblyReference.cache
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/MobileTodoApp.iOS.csproj.CoreCompileInputs.cache
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/MobileTodoApp.iOS.csproj.CopyComplete
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/MobileApp.iOS.exe
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/MobileApp.iOS.pdb
+/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/ibtool/_BundleResourceWithLogicalName.items
+/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_PartialAppManifest.items
+/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_BundleResourceWithLogicalName.items
+/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_PartialAppManifest.items
+/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_BundleResourceWithLogicalName.items
+/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/

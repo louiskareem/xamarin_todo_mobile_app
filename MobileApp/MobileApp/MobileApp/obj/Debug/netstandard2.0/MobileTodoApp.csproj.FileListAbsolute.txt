@@ -29,3 +29,4 @@ C:/Users/Gebruiker/source/repos/MobileApp/MobileApp/MobileApp/obj/Debug/netstand
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileTodoApp.dll
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp/obj/Debug/netstandard2.0/ref/MobileTodoApp.dll
 /Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileTodoApp.pdb
+/Users/kareem/Documents/xamarin_todo_mobile_app/MobileApp/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileTodoApp.csprojAssemblyReference.cache
